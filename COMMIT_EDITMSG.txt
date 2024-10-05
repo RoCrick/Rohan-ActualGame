@@ -1,0 +1,24 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	deleted:    game/__pycache__/settings.cpython-312.pyc
+#	deleted:    game/__pycache__/sprites.cpython-312.pyc
+#	deleted:    game/main.py
+#	deleted:    game/main.py1
+#	deleted:    game/settings.py
+#	deleted:    game/sprites.py
+#	new file:   gameone/__pycache__/settings.cpython-312.pyc
+#	new file:   gameone/__pycache__/sprites.cpython-312.pyc
+#	new file:   gameone/__pycache__/tilemap.cpython-312.pyc
+#	new file:   gameone/level1.txt
+#	new file:   gameone/main.py
+#	new file:   gameone/settings.py
+#	new file:   gameone/sprites.py
+#	new file:   gameone/tilemap.py
+#
+# Changes not staged for commit:
+#	modified:   gameone/main.py
+#
